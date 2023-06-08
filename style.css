@@ -8,6 +8,7 @@
 
 header {
     margin: 44px 0px 144px 76px;
+    cursor: pointer;
 }
 
 
@@ -30,6 +31,7 @@ header {
     line-height: 29px;
     color: #FFFFFF;
     border: none;
+    cursor: pointer;
 }
 
 .img-logo {
